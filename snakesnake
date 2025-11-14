@@ -1,1 +1,1 @@
-local fakeban = You have been permanently banned. game.Players.LocalPlayerKick(fakeban) 
+local fakeban = "You have been permanently banned." game.Players.LocalPlayer:Kick(fakeban) 
